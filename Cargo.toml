@@ -1,8 +1,10 @@
 [package]
 name = "geph4-download-links"
+authors = ["nullchinchilla <nullchinchilla@pm.me>"]
+description="Geph download links"
 version = "0.1.0"
 edition = "2021"
-license = "MIT"
+license="GPL-3.0-only"
 keywords = ["Geph"]
 repository = "https://github.com/geph-official/geph4-client"
 
