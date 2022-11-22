@@ -2,7 +2,7 @@
 name = "geph4-download-links"
 authors = ["nullchinchilla <nullchinchilla@pm.me>"]
 description="Geph download links"
-version = "0.1.0"
+version = "4.6.2"
 edition = "2021"
 license="GPL-3.0-only"
 keywords = ["Geph"]
